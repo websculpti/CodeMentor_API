@@ -448,34 +448,34 @@ docs/images/
 ```
 
 ```text
-swagger-ui.png
-health-route.png
-generate-request.png
-generate-response.png
-render-deployment.png
+Swagger_UI.png
+Health_Route.png
+Response_generated.png
+Review_Route.png
+
 ```
 
 ### Swagger UI
 
-![Swagger UI](docs/images/swagger-ui.png)
+![Swagger UI](docs/Swagger_UI.png)
 
 ---
 
 ### Health Route
 
-![Health Route](docs/images/health-route.png)
+![Health Route](docs/Health_route.png)
 
 ---
 
 ### Generate Response
 
-![Generate Response](docs/images/generate-response.png)
+![Generate Response](docs/Response_generated.png)
 
 ---
 
 ### Code Review Route
 
-![Health Route](docs/images/health-route.png)
+![Health Route](docs/Review_route.png)
 
 
 ## Future Improvements
