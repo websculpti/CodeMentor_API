@@ -1,0 +1,7 @@
+# Phase 2 - Health route
+
+- Added health route under `app/routes/health.py`
+- Registered health route in `app/main.py`
+- Tested `GET /health` locally
+- Checked route in Swagger UI
+- Committed changes to GitHub
