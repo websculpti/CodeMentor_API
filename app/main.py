@@ -15,7 +15,7 @@ app.include_router(health.router)
 app.include_router(review.router)
 
 
-@app.get("/")
+@app.get("/", tags=["Root"])
 def root():
     logger.info("Root endpoint accessed")
 
